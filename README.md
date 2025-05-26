@@ -21,8 +21,50 @@
 
 ## Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 15 12 43](https://github.com/user-attachments/assets/89660c11-0c54-49ec-8820-df35cfbf9d4a)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 15 12 49](https://github.com/user-attachments/assets/d9e4b881-c6e3-4d14-b2d6-ec84889fd39b)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 15 13 05](https://github.com/user-attachments/assets/539e55dc-62d7-45a0-b49f-af97be06dcae)
+## LOTR Converter Preview
+<p float="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a65fc592-e3f8-4fae-8955-3b8846db0855" 
+    alt="LOTR1" 
+    width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e34b0cbb-2c79-4861-813a-a52e715d8169" 
+    alt="LOTR Converter2" 
+    width = "300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/2f180577-a048-4217-99d3-c05c9413f224"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "https://github.com/user-attachments/assets/c6b1d708-af2c-470d-97a0-fce6651ef2a2"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/2f77fe15-b269-40ae-a8a7-1f4fd15ba305"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/de24a3bb-5675-40d7-9774-0d06084c58b6"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "https://github.com/user-attachments/assets/d40e71e3-7752-4aaf-9de8-f5b1228e1cf8"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/0062c5d2-e10a-4112-b0d4-bac3718b0784"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/72b8d5c4-cab0-4f7f-b50f-6d43c9a5c14a"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+
+</p>
+
+
 
 
